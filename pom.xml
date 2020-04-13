@@ -37,12 +37,12 @@
         <repository>
             <id>deployment</id>
             <name>Internal Releases</name>
-            <url>http://52.35.1.193:8081/repository/studentapp-releases/</url>
+            <url>http://34.209.222.183:8081/repository/studentapp-releases/</url>
         </repository>
         <snapshotRepository>
             <id>deployment</id>
             <name>Internal Snapshot Releases</name>
-            <url>http://52.35.1.193:8081/repository/studentapp-snapshots/</url>
+            <url>http://34.209.222.183:8081/repository/studentapp-snapshots/</url>
         </snapshotRepository>
     </distributionManagement>
   <dependencies>
