@@ -6,9 +6,9 @@
   <packaging>war</packaging>
 
   <scm>
-   <connection>scm:git:https://${GIT_USR}:${GIT_PSW}@gitlab.com/d41/studentapp-ui.git</connection>
-   <url>scm:git:https://${GIT_USR}:${GIT_PSW}@gitlab.com/d41/studentapp-ui.git</url>
-   <developerConnection>scm:git:https://${GIT_USR}:${GIT_PSW}@gitlab.com/d41/studentapp-ui.git</developerConnection>
+   <connection>scm:git:https://${GIT_USR}:${GIT_PSW}@github.com/ragni085/student.git</connection>
+   <url>scm:git:https://${GIT_USR}:${GIT_PSW}@github.com/ragni085/student.git</url>
+   <developerConnection>scm:git:https://${GIT_USR}:${GIT_PSW}@github.com/ragni085/student.git</developerConnection>
     <tag>studentapp-1.0</tag>
   </scm>   
 
